@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1749090313376,
+      "name": "Kurt Raymund Pasion",
+      "age": 21,
+      "contact": "09913520552",
+      "email": "pasionkrp28@gmail.com"
+    },
+    {
+      "id": 1749092332896,
+      "name": "Juan Dela Cruz",
+      "age": 50,
+      "contact": "09123456789",
+      "email": "jdc@gmail.com"
+    },
+    {
+      "id": 1749136924702,
+      "name": "Juana Dela Cruz",
+      "age": 45,
+      "contact": "09987654321",
+      "email": "jdcc@gmail.com"
+    }
+  ]
+}
